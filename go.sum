@@ -3,8 +3,6 @@ github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSs
 github.com/fxamacker/cbor/v2 v2.2.0/go.mod h1:TA1xS00nchWmaBnEIxPSE5oHLuJBAVvqrtAnWBwBCVo=
 github.com/fxamacker/cbor/v2 v2.7.0 h1:iM5WgngdRBanHcxugY4JySA0nk1wZorNOpTgCMedv5E=
 github.com/fxamacker/cbor/v2 v2.7.0/go.mod h1:pxXPTn3joSm21Gbwsv0w9OSA2y1HFR9qXEeXQVeNoDQ=
-github.com/fxamacker/webauthn v0.6.1 h1:Vh5Kfuul05zCffJN8PGk1aqeTIw14syrorcwDMeVlN0=
-github.com/fxamacker/webauthn v0.6.1/go.mod h1:dOZK7yO04AnMvkmC+HLP6YO32doyu+fRPQlY0wD4Lb0=
 github.com/go-webauthn/webauthn v0.12.2 h1:yLaNPgBUEXDQtWnOjhsGhMMCEWbXwjg/aNkC8riJQI8=
 github.com/go-webauthn/webauthn v0.12.2/go.mod h1:Q8SZPPj4sZ469fNTcQXxRpzJOdb30jQrn/36FX8jilA=
 github.com/go-webauthn/x v0.1.19 h1:IUfdHiBRoTdujpBA/14qbrMXQ3LGzYe/PRGWdZcmudg=
@@ -15,6 +13,8 @@ github.com/google/go-tpm v0.9.3 h1:+yx0/anQuGzi+ssRqeD6WpXjW2L/V0dItUayO0i9sRc=
 github.com/google/go-tpm v0.9.3/go.mod h1:h9jEsEECg7gtLis0upRBQU+GhYVH6jMjrFxI8u6bVUY=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
 github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/kappapay/webauthn v0.6.2-0.20250404092220-b04dc512f7df h1:hCEYDFoGe/pbqNiEsgcgk9F98TIA5ldVXQ3fmZIVkYk=
+github.com/kappapay/webauthn v0.6.2-0.20250404092220-b04dc512f7df/go.mod h1:IbzJ8VjgghYBOf9wn+CXY8ROzz8tS0gN3WC/32VJL+8=
 github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=
 github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=

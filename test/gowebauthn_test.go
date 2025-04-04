@@ -5,9 +5,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/descope/virtualwebauthn"
 	"github.com/go-webauthn/webauthn/protocol"
 	"github.com/go-webauthn/webauthn/webauthn"
+	"github.com/kappapay/virtualwebauthn"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

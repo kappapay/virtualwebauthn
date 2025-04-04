@@ -5,7 +5,7 @@ import (
 	"regexp"
 	"testing"
 
-	"github.com/descope/virtualwebauthn"
+	"github.com/kappapay/virtualwebauthn"
 	"github.com/stretchr/testify/require"
 )
 

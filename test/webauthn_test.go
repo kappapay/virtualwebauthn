@@ -6,9 +6,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/descope/virtualwebauthn"
-	"github.com/fxamacker/webauthn"
-	_ "github.com/fxamacker/webauthn/packed"
+	"github.com/kappapay/virtualwebauthn"
+	"github.com/kappapay/webauthn"
+	_ "github.com/kappapay/webauthn/packed"
 	"github.com/stretchr/testify/require"
 )
 
@@ -39,7 +39,7 @@ func testCredential(t *testing.T, cred virtualwebauthn.Credential) {
 	// Register
 
 	// Start an attestation request with the relying party to register a new webauthn authenticator.
-	// In this test we run an instance of fxamacker/webauthn locally, but we could just as well get
+	// In this test we run an instance of kappapay/webauthn locally, but we could just as well get
 	// this from an an actual server.
 	attestation := startWebauthnRegister(t)
 
